@@ -243,5 +243,8 @@ PUBLISH_ARRAY channel json_array
 Example:
 
 ```sh
+
+
+
 PUBLISH_ARRAY mychannel '[1, 2, 3]'
 ```
